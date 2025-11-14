@@ -1,6 +1,6 @@
-# 👋 Cheers, mates!
+# 👋 Cheers, mates! 
 
-Hi, I’m **Irina**!  
+Hi, I’m **Irina**!  ![aspicon](https://github.com/aspirinium/aspirinium.github.io/blob/main/imgs/aspicon.png)
 
 I’m here to chat in **English, Russian, German**, or your made-up language - [doesn’t matter if I understand it 😎](https://www.youtube.com/watch?v=pIs46LzZUws).
 Maybe we'll talk **Python, C++, JavaScript, or Java**, maybe something entirely different. Stick around and find out!  
