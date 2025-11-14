@@ -1,2 +1,4 @@
-# README
-About me
+[|] Hi! Привет! Hallo!
+[/] Hi! Привет! Hallo!
+[-] Hi! Привет! Hallo!
+[\] Hi! Привет! Hallo!
