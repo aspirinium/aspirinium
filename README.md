@@ -11,3 +11,4 @@ Maybe we'll talk **Python, C++, JavaScript, or Java**, maybe something entirely 
 - 🌄 Combine coding with little passions in life: nature, landscapes, music.
 
 # Let’s get gitting! 🛸
+![Rotating Homer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI2dTAzeWpudzIzbnV0dGViNWNyOGNzODZjZzhhN29tMGVtcW93YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqtvGYCjDNwac/giphy.gif)
